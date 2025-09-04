@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px 550px 100px 550px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+}
+
+.coluna1 {
+    width: 50px;
+}
+
+.coluna2 {
+    width: 200px;
+}
+
+.coluna3 {
+    width: 290px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+footer {
+    margin: 0 130px 0 0px;
+}
